@@ -1,0 +1,59 @@
+.container{
+  text-align: center;
+  background-color: white;
+  padding: 20px 10px;
+  border-radius: 5px;
+  box-shadow: 0 0 10px #000000;
+
+  width:400px;
+  margin: 20px;
+
+}
+
+.Forminput {
+  padding: 10px;
+  margin: 5px;
+  width: 80%;
+  color: black;
+  font-weight: bold;
+  border: 2px solid #4747ea;
+  border-radius: 5px;
+}
+
+
+/* #0000FF 
+
+#4747ea
+
+*/
+input:hover {
+  border: 2px solid #0000FF;
+}
+
+
+label {
+  color: #4747ea;
+  font-weight: bold;
+}
+
+.date{
+  width: 50%;
+}
+
+.time{
+  width:28%;
+}
+
+.submit{
+  padding: 10px;
+  width:80%;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  background-color: #4747ea;
+  border-radius: 5px;
+  font-weight: bold;
+}
+
+.submit:hover {
+  background-color: #0000FF;
+}
